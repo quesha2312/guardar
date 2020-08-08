@@ -1,0 +1,9 @@
+c:\users\davidgerardo\documents\visual studio 2013\Projects\Brujas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\davidgerardo\Documents\Visual Studio 2013\Projects\Brujas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\davidgerardo\Documents\Visual Studio 2013\Projects\Brujas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\davidgerardo\Documents\Visual Studio 2013\Projects\Brujas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\davidgerardo\Documents\Visual Studio 2013\Projects\Brujas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\davidgerardo\Documents\Visual Studio 2013\Projects\Brujas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\davidgerardo\Documents\Visual Studio 2013\Projects\Brujas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\davidgerardo\Documents\Visual Studio 2013\Projects\Brujas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\davidgerardo\Documents\Visual Studio 2013\Projects\Brujas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
